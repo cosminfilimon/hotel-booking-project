@@ -30,7 +30,7 @@ Notes:
 * If ```doubleBonusDay``` is true and ```canDouble``` is true on the room, ```totalRewardsPoints``` is ```baseRewardsPoints * 2```.
 * If ```rewardsMember``` is false, ```totalRewardPoints``` is 0.
 * If ```rewardsMember``` is true, ```finalCost``` is ```baseRate * (1 - memberDiscount)```
-
+hotel-booking-service
 #### API
 
 * URL: /hotelRewards/{roomId}?rewardsMember=[true|false]&doubleBonusDay=[true|false]
