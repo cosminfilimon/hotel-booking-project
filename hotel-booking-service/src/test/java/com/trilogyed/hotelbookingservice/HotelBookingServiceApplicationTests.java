@@ -1,4 +1,4 @@
-package hotelbookingservice;
+package com.trilogyed.hotelbookingservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
