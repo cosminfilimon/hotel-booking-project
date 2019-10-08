@@ -19,7 +19,8 @@ You will be supplied the following services to help complete your project. Each 
 
 ### Hotel Booking Service Requirements (You Implement)
 
-Your service will calculate the cost of a hotel room, and any rewards points for a given hotel room. The calculation will take the following into account:
+Your service will calculate the cost of a hotel room, and any rewards points for a given hotel room.
+The calculation will take the following into account:
 
 * Whether the customer is a rewards member
 * Whether the room is discount eligible
@@ -27,7 +28,9 @@ Your service will calculate the cost of a hotel room, and any rewards points for
 * Whether the room can have its rewards points doubled
 
 Notes:
-* If ```doubleBonusDay``` is true and ```canDouble``` is true on the room, ```totalRewardsPoints``` is ```baseRewardsPoints * 2```.
+* If ```doubleBonusDay``` is true and ```canDouble``` is true on the room,
+      ```totalRewardsPoints``` is ```baseRewardsPoints * 2```.
+
 * If ```rewardsMember``` is false, ```totalRewardPoints``` is 0.
 * If ```rewardsMember``` is true, ```finalCost``` is ```baseRate * (1 - memberDiscount)```
 hotel-booking-service

@@ -17,7 +17,7 @@ import java.util.List;
 public interface RewardsClient {
 
     @GetMapping(value = "/type/{roomType}")
-    public Rewards getRewards(@PathVariable String roomType);
+    public Rewards getRewards(@PathVariable("roomType") String roomType);
 
     @GetMapping
     public List<Rewards> getAllRewards();
