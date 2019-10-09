@@ -10,7 +10,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eureka-server.main" target="1.8" />
+      <module name="eureka-server.test" target="1.8" />
       <module name="hotel-booking-service" target="1.8" />
+      <module name="rewards-service.main" target="1.8" />
+      <module name="rewards-service.test" target="1.8" />
+      <module name="room-service.main" target="1.8" />
+      <module name="room-service.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
