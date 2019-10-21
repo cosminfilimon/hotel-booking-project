@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hotel-booking-project.iml" filepath="$PROJECT_DIR$/.idea/hotel-booking-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotel-booking-service/hotel-booking-service.iml" filepath="$PROJECT_DIR$/hotel-booking-service/hotel-booking-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rewards-service.iml" filepath="$PROJECT_DIR$/.idea/modules/rewards-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rewards-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rewards-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/rewards-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rewards-service.test.iml" />
